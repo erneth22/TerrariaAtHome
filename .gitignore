@@ -1,4 +1,5 @@
-build
+build/
+SFML
 out
 .cache
 .idea

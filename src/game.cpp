@@ -1,4 +1,4 @@
-#include "../game.h"
+#include "game.h"
 
 void game::Run() {
     auto window = sf::RenderWindow({640,380}, "Terraria At Home");

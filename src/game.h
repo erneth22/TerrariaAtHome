@@ -3,4 +3,5 @@
 class game {
     public:
     void Run();
+    private:  
 };
